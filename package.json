@@ -1,0 +1,17 @@
+{
+	"name": "new-react-app",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-scripts": "3.4.1"
+	},
+	"frame": "react",
+	"description": "脚手架模版测试",
+	"author": "hanlin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/guxiansheng/new-react-app.git"
+	}
+}
